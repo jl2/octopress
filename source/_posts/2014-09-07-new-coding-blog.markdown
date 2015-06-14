@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""New Coding Blog""
+title: "New Coding Blog"
 date: 2014-09-07 20:28:30 -0600
 comments: false
 categories: [news]
